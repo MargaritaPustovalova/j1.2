@@ -35,9 +35,7 @@ MIR
 
 ## Описание дефектов 
 
-https://github.com/MargaritaPustovalova/j1.2/issues/1 
-
-https://github.com/MargaritaPustovalova/j1.2/issues/1#issue-935854146
+[При проверке программы Credit Card Number Validator некоторые карты не работают](https://github.com/MargaritaPustovalova/j1.2/issues/1) 
 
 Не работают карты с номерами, не равными 16-ти знакам. 
 
