@@ -35,7 +35,9 @@ MIR
 
 ## Описание дефектов 
 
-https://github.com/MargaritaPustovalova/j1.2/issues/1
+https://github.com/MargaritaPustovalova/j1.2/issues/1 
+
+https://github.com/MargaritaPustovalova/j1.2/issues/1#issue-935854146
 
 Не работают карты с номерами, не равными 16-ти знакам. 
 
