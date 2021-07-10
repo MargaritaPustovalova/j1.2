@@ -28,7 +28,7 @@ Maestro
 
 MIR
 
-Номера карт находятся по ссылке https://github.com/MargaritaPustovalova/j1.2/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.md 
+Номера карт находятся по ссылке [Проверенные номера карт](https://github.com/MargaritaPustovalova/j1.2/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.md)
 
 
 Данные номера были подставлены  поочередно в код, после чего производилось нажатие на зелёную стрелку на первой строке, выбран "Run 'Main.main()'":
